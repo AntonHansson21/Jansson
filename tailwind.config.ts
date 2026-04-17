@@ -9,8 +9,15 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        yellow: "#F5C400",
+        charcoal: "#1a1a1a",
+        "charcoal-mid": "#242424",
+        "charcoal-light": "#2e2e2e",
+        muted: "#8a8a8a",
+      },
+      fontFamily: {
+        heading: ["var(--font-barlow)", "sans-serif"],
+        body: ["var(--font-dm-sans)", "sans-serif"],
       },
     },
   },
