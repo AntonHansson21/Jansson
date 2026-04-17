@@ -9,12 +9,12 @@ const features = [
   {
     icon: BadgeCheck,
     title: "Behöriga och ansvariga",
-    desc: "Vi är certifierade elinstallatörer och arbetar enligt elsäkerhetslagen. Det innebär att vi inte bara får utföra jobbet — vi ansvarar också juridiskt för att det är rätt gjort.",
+    desc: "Vi är certifierade elinstallatörer och arbetar enligt elsäkerhetslagen. Det innebär att vi inte bara får utföra jobbet - vi ansvarar också juridiskt för att det är rätt gjort.",
   },
   {
     icon: Timer,
     title: "Personlig kontakt",
-    desc: "När du ringer Regmyr & Jansson pratar du med Erik eller Jonas — inte en bokningscentral. Du vet vem som kommer, och vi vet vad vi lovat.",
+    desc: "När du ringer Regmyr & Jansson pratar du med Alexander eller Vilmer - inte en bokningscentral. Du vet vem som kommer, och vi vet vad vi lovat.",
   },
   {
     icon: Tag,

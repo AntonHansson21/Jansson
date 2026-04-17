@@ -16,7 +16,7 @@ export default function Footer() {
               </span>
             </div>
             <p className="font-body text-white/40 text-sm leading-relaxed max-w-xs">
-              Behöriga elinstallatörer för hem och företag i Skåne. Två namn på dörren — ett ansvar.
+              Behöriga elinstallatörer för hem och företag i Skåne. Två namn på dörren - ett ansvar.
             </p>
           </div>
 

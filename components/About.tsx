@@ -32,14 +32,14 @@ export default function About() {
             <div className="w-12 h-1 bg-yellow mb-8" />
             <div className="space-y-4 font-body text-white/60 text-base leading-relaxed">
               <p>
-                Regmyr &amp; Jansson startade vi, Erik Regmyr och Jonas Jansson,
+                Regmyr &amp; Jansson startade vi, Alexander Jansson och Vilmer Regmyr,
                 efter år som anställda elektriker hos Bravida i Skåne. Vi ville
-                bygga något eget — ett bolag där vi kan stå för varje jobb med
+                bygga något eget - ett bolag där vi kan stå för varje jobb med
                 våra egna namn.
               </p>
               <p>
                 Som behöriga elinstallatörer tar vi fullt ansvar för det vi
-                utför. Inget mellanting mellan dig och den som gör jobbet — du
+                utför. Inget mellanting mellan dig och den som gör jobbet - du
                 vet alltid vem du pratar med och vem som dyker upp.
               </p>
               <p>

@@ -54,7 +54,7 @@ export default function Hero() {
           transition={{ duration: 0.6, ease: EASE, delay: 0.7 }}
           className="font-body text-white/60 text-lg md:text-xl max-w-xl mb-10 leading-relaxed"
         >
-          Regmyr &amp; Jansson är ett nystartat elföretag i Skåne — certifierade,
+          Regmyr &amp; Jansson är ett nystartat elföretag i Skåne - certifierade,
           lokala och med en direkt linje till den som faktiskt utför jobbet.
         </motion.p>
 

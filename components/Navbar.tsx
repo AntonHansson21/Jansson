@@ -106,7 +106,7 @@ export default function Navbar() {
                   href="tel:+46704128391"
                   className="block w-full text-center py-3 bg-yellow text-charcoal font-body font-600 rounded"
                 >
-                  Ring oss — 070-412 83 91
+                  Ring oss - 070-412 83 91
                 </a>
               </li>
             </ul>

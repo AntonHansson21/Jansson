@@ -29,7 +29,7 @@ export default function Contact() {
             Hör av dig
           </h2>
           <p className="font-body text-white/50 text-base max-w-md mx-auto">
-            Berätta vad du behöver hjälp med — vi återkommer snabbt med ett
+            Berätta vad du behöver hjälp med - vi återkommer snabbt med ett
             ärligt svar och ett fast pris. Inga formulär, ingen krångel.
           </p>
           <div className="mt-6 mx-auto w-12 h-1 bg-yellow" />
