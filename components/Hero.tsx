@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 import { Phone, Mail, ChevronDown } from "lucide-react";
 import { staggerContainer, wordReveal, EASE } from "@/lib/motion";
 
-const headline = ["Elektriker", "du", "kan", "lita", "på."];
+const headline = ["Två", "elektriker.", "Ett", "ansvar."];
 
 export default function Hero() {
   return (
@@ -39,7 +39,7 @@ export default function Hero() {
               key={i}
               variants={wordReveal}
               className={`inline-block mr-[0.25em] ${
-                word === "lita" ? "text-yellow" : ""
+                word === "ansvar." ? "text-yellow" : ""
               }`}
             >
               {word}
@@ -54,8 +54,8 @@ export default function Hero() {
           transition={{ duration: 0.6, ease: EASE, delay: 0.7 }}
           className="font-body text-white/60 text-lg md:text-xl max-w-xl mb-10 leading-relaxed"
         >
-          Elektriker för hem och företag i Dalarna. Certifierade, lokala och med
-          30 års erfarenhet av allt från elinstallation till felsökning.
+          Regmyr &amp; Jansson är ett nystartat elföretag i Skåne — certifierade,
+          lokala och med en direkt linje till den som faktiskt utför jobbet.
         </motion.p>
 
         {/* CTAs */}
@@ -66,7 +66,7 @@ export default function Hero() {
           className="flex flex-col sm:flex-row gap-4"
         >
           <motion.a
-            href="tel:+46701234567"
+            href="tel:+46704128391"
             whileHover={{ scale: 1.03 }}
             whileTap={{ scale: 0.97 }}
             className="inline-flex items-center justify-center gap-2 bg-yellow text-charcoal font-body font-600 text-base px-7 py-4 rounded min-h-[52px] transition-colors hover:bg-yellow/90"
@@ -93,9 +93,9 @@ export default function Hero() {
           className="mt-16 flex gap-10 border-t border-white/10 pt-8"
         >
           {[
-            { value: "30+", label: "Års erfarenhet" },
-            { value: "1200+", label: "Slutförda projekt" },
-            { value: "100%", label: "Certifierade" },
+            { value: "2", label: "Grundare" },
+            { value: "Skåne", label: "Verksamhetsområde" },
+            { value: "100%", label: "Behöriga" },
           ].map((s) => (
             <div key={s.label}>
               <div className="font-heading font-700 text-yellow text-3xl leading-none">

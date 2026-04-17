@@ -16,7 +16,7 @@ export default function Footer() {
               </span>
             </div>
             <p className="font-body text-white/40 text-sm leading-relaxed max-w-xs">
-              Certifierade elektriker för hem och företag i Dalarna sedan 1994.
+              Behöriga elinstallatörer för hem och företag i Skåne. Två namn på dörren — ett ansvar.
             </p>
           </div>
 
@@ -46,11 +46,11 @@ export default function Footer() {
             </h4>
             <div className="space-y-3 font-body text-sm">
               <a
-                href="tel:+46701234567"
+                href="tel:+46704128391"
                 className="flex items-center gap-2 text-white/50 hover:text-yellow transition-colors"
               >
                 <Phone size={15} />
-                070-123 45 67
+                070-412 83 91
               </a>
               <a
                 href="mailto:info@regmyrjansson.se"
@@ -75,7 +75,7 @@ export default function Footer() {
             © 2025 Regmyr &amp; Jansson El AB. Alla rättigheter förbehållna.
           </p>
           <p className="font-body text-white/20 text-xs">
-            Certifierad elentreprenör — Elsäkerhetsverket
+            Elarbeten i Skåne utförda med yrkesheder.
           </p>
         </div>
       </div>

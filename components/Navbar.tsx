@@ -62,7 +62,7 @@ export default function Navbar() {
           ))}
           <li>
             <a
-              href="tel:+46701234567"
+              href="tel:+46704128391"
               className="ml-2 px-4 py-2 bg-yellow text-charcoal text-sm font-body font-600 rounded hover:bg-yellow/90 transition-colors duration-200"
             >
               Ring oss
@@ -103,10 +103,10 @@ export default function Navbar() {
               ))}
               <li className="pt-3">
                 <a
-                  href="tel:+46701234567"
+                  href="tel:+46704128391"
                   className="block w-full text-center py-3 bg-yellow text-charcoal font-body font-600 rounded"
                 >
-                  Ring oss — 070-123 45 67
+                  Ring oss — 070-412 83 91
                 </a>
               </li>
             </ul>

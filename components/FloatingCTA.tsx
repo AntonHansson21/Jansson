@@ -12,7 +12,7 @@ export default function FloatingCTA() {
       className="fixed bottom-0 left-0 right-0 z-50 md:hidden px-4 pb-4"
     >
       <motion.a
-        href="tel:+46701234567"
+        href="tel:+46704128391"
         whileTap={{ scale: 0.97 }}
         className="flex items-center justify-center gap-3 w-full bg-yellow text-charcoal font-body font-600 text-base py-4 rounded-lg shadow-lg min-h-[56px]"
       >

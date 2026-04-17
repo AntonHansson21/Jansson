@@ -25,25 +25,27 @@ export default function About() {
               className="font-heading font-700 text-white leading-none mb-6"
               style={{ fontSize: "clamp(2.2rem, 4vw, 3.5rem)" }}
             >
-              Lokal kompetens
+              Lokal kompetens.
               <br />
-              sedan 1994.
+              Egna namn på dörren.
             </h2>
             <div className="w-12 h-1 bg-yellow mb-8" />
             <div className="space-y-4 font-body text-white/60 text-base leading-relaxed">
               <p>
-                Regmyr &amp; Jansson El AB grundades i Dalarna och har sedan
-                starten byggt ett solitt rykte som en pålitlig, certifierad
-                elentreprenör för både privatpersoner och företag.
+                Regmyr &amp; Jansson startade vi, Erik Regmyr och Jonas Jansson,
+                efter år som anställda elektriker hos Bravida i Skåne. Vi ville
+                bygga något eget — ett bolag där vi kan stå för varje jobb med
+                våra egna namn.
               </p>
               <p>
-                Vi är stolta över att vara en lokal aktör med djup kunskap om
-                regionens behov. Vår personal är auktoriserad och håller sig
-                ständigt uppdaterad på gällande normer och regelverk.
+                Som behöriga elinstallatörer tar vi fullt ansvar för det vi
+                utför. Inget mellanting mellan dig och den som gör jobbet — du
+                vet alltid vem du pratar med och vem som dyker upp.
               </p>
               <p>
-                Hos oss får du alltid ett fast pris i förväg, snabb respons och
-                ett arbete som håller — på riktigt.
+                Det finns inga undermontörer, inga vikarier och ingen
+                callcenter. Bara två elektriker som vill göra ett bra jobb och
+                bygga ett rykte som håller.
               </p>
             </div>
           </motion.div>
@@ -56,19 +58,19 @@ export default function About() {
             className="flex items-center justify-center"
           >
             <div className="relative select-none">
-              {/* Large display number */}
+              {/* Large display text */}
               <span
                 className="font-heading font-800 text-yellow/10 leading-none block"
                 style={{ fontSize: "clamp(8rem, 20vw, 16rem)" }}
               >
-                30
+                2
               </span>
               <div className="absolute inset-0 flex flex-col items-center justify-center">
                 <span className="font-heading font-700 text-yellow text-5xl leading-none">
-                  30+
+                  2 st
                 </span>
                 <span className="font-body text-white/50 text-base mt-2 tracking-widest uppercase">
-                  Års erfarenhet
+                  Behöriga installatörer
                 </span>
               </div>
               {/* Decorative lines */}

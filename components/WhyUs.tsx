@@ -8,18 +8,18 @@ import { staggerContainer, cardReveal, fadeUp } from "@/lib/motion";
 const features = [
   {
     icon: BadgeCheck,
-    title: "Certifierade elektriker",
-    desc: "Alla våra elektriker är auktoriserade och arbetar enligt gällande elsäkerhetslagen och Elsäkerhetsverkets krav.",
+    title: "Behöriga och ansvariga",
+    desc: "Vi är certifierade elinstallatörer och arbetar enligt elsäkerhetslagen. Det innebär att vi inte bara får utföra jobbet — vi ansvarar också juridiskt för att det är rätt gjort.",
   },
   {
     icon: Timer,
-    title: "Snabb respons",
-    desc: "Vi svarar på förfrågningar vardagar 07–17 och kan ofta komma ut inom 48 timmar. Akuta ärenden prioriteras.",
+    title: "Personlig kontakt",
+    desc: "När du ringer Regmyr & Jansson pratar du med Erik eller Jonas — inte en bokningscentral. Du vet vem som kommer, och vi vet vad vi lovat.",
   },
   {
     icon: Tag,
-    title: "Fast pris",
-    desc: "Inget krångel med löpande räkning. Du får ett tydligt fast pris innan vi börjar — och vi håller det.",
+    title: "Vi arbetar lokalt",
+    desc: "Vi bor och jobbar i Skåne. Korta avstånd betyder snabbare respons och att vi faktiskt känner till förutsättningarna i området.",
   },
 ];
 

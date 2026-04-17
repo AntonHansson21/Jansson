@@ -26,10 +26,11 @@ export default function Contact() {
             className="font-heading font-700 text-white leading-none mb-4"
             style={{ fontSize: "clamp(2.5rem, 5vw, 4rem)" }}
           >
-            Låt oss hjälpa dig
+            Hör av dig
           </h2>
           <p className="font-body text-white/50 text-base max-w-md mx-auto">
-            Inga formulär, ingen krångel. Ring eller maila — vi återkommer snabbt.
+            Berätta vad du behöver hjälp med — vi återkommer snabbt med ett
+            ärligt svar och ett fast pris. Inga formulär, ingen krångel.
           </p>
           <div className="mt-6 mx-auto w-12 h-1 bg-yellow" />
         </motion.div>
@@ -42,7 +43,7 @@ export default function Contact() {
           className="flex flex-col sm:flex-row gap-5 justify-center mb-16"
         >
           <motion.a
-            href="tel:+46701234567"
+            href="tel:+46704128391"
             variants={cardReveal}
             whileHover={{ scale: 1.04 }}
             whileTap={{ scale: 0.97 }}
@@ -55,7 +56,7 @@ export default function Contact() {
               <div className="text-xs font-400 tracking-widest uppercase opacity-70 mb-0.5">
                 Telefon
               </div>
-              <div>070-123 45 67</div>
+              <div>070-412 83 91</div>
             </div>
           </motion.a>
 

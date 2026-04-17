@@ -16,32 +16,32 @@ const services = [
   {
     icon: Zap,
     title: "Elinstallation",
-    desc: "Nyinstallation och uppgradering av elsystem i villor, lägenheter och lokaler. Allt enligt gällande regler.",
+    desc: "Vi installerar el i villor, lägenheter och lokaler — från grunden eller som komplettering till befintlig anläggning. Allt utförs enligt gällande regelverk av behörig elinstallatör.",
   },
   {
     icon: Search,
     title: "Felsökning",
-    desc: "Snabb och noggrann felsökning av elanläggningar. Vi hittar problemet och åtgärdar det effektivt.",
+    desc: "Något fungerar inte som det ska? Vi går metodiskt igenom anläggningen, hittar felet och åtgärdar det. Inga vilda gissningar — bara ett ordentligt jobb.",
   },
   {
     icon: ShieldCheck,
     title: "Säkringsarbeten",
-    desc: "Byte av proppskåp, installation av jordfelsbrytare och uppgradering av äldre elcentraler.",
+    desc: "Byte av elcentral, installation av jordfelsbrytare eller uppgradering av ett gammalt proppskåp. Vi ser till att din anläggning är säker och uppfyller dagens krav.",
   },
   {
     icon: Lightbulb,
     title: "Belysning",
-    desc: "Infällda spottar, utomhusbelysning, LED-konvertering och smart hembelysning.",
+    desc: "Infällda spottar, utomhusbelysning, nya armaturer eller LED-konvertering. Vi hjälper dig med allt från planering till färdig installation.",
   },
   {
     icon: Building2,
     title: "Företagsel",
-    desc: "Elarbeten för kontor, butiker och industrilokaler. Vi hanterar allt från planering till driftsättning.",
+    desc: "El för kontor, butiker och verksamhetslokaler. Vi hanterar allt från nyinstallation till ombyggnation och ser till att arbetet stör verksamheten så lite som möjligt.",
   },
   {
     icon: Wrench,
     title: "Renovering & tillbyggnad",
-    desc: "Elektriska arbeten vid om- och tillbyggnader. Vi samordnar med din byggherre och följer projektet.",
+    desc: "Bygger du om eller till? Vi sköter elarbetena och samordnar med övriga hantverkare. Du får en elinstallatör som är med hela vägen — inte en som dyker upp i slutet.",
   },
 ];
 
