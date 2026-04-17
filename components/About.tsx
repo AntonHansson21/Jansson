@@ -2,7 +2,7 @@
 
 import { useRef } from "react";
 import { motion, useInView } from "framer-motion";
-import { fadeLeft, fadeRight, fadeUp } from "@/lib/motion";
+import { fadeLeft, fadeRight } from "@/lib/motion";
 
 export default function About() {
   const ref = useRef<HTMLDivElement>(null);

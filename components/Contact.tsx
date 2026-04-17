@@ -3,7 +3,7 @@
 import { useRef } from "react";
 import { motion, useInView } from "framer-motion";
 import { Phone, Mail, Clock } from "lucide-react";
-import { fadeUp, staggerContainer, cardReveal, EASE } from "@/lib/motion";
+import { fadeUp, staggerContainer, cardReveal } from "@/lib/motion";
 
 export default function Contact() {
   const ref = useRef<HTMLDivElement>(null);

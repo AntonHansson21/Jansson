@@ -56,7 +56,7 @@ export default function WhyUs() {
           animate={inView ? "visible" : "hidden"}
           className="grid grid-cols-1 md:grid-cols-3 gap-8"
         >
-          {features.map((f, i) => {
+          {features.map((f) => {
             const Icon = f.icon;
             return (
               <motion.div

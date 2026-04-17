@@ -10,7 +10,7 @@ import {
   Building2,
   Wrench,
 } from "lucide-react";
-import { staggerContainer, cardReveal, fadeUp, EASE } from "@/lib/motion";
+import { staggerContainer, cardReveal, fadeUp } from "@/lib/motion";
 
 const services = [
   {
