@@ -33,9 +33,8 @@ export default function About() {
             <div className="space-y-4 font-body text-white/60 text-base leading-relaxed">
               <p>
                 Regmyr &amp; Jansson startade vi, Alexander Jansson och Vilmer Regmyr,
-                efter år som anställda elektriker hos Bravida i Skåne. Vi ville
-                bygga något eget - ett bolag där vi kan stå för varje jobb med
-                våra egna namn.
+                för att bygga något eget - ett bolag där vi kan stå för varje
+                jobb med våra egna namn.
               </p>
               <p>
                 Som behöriga elinstallatörer tar vi fullt ansvar för det vi
